@@ -5,13 +5,13 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Coq140&color=blue&style=flat-square)](https://github.com/Coq140)
 
 - 🌱 I'm currently learning **Python**
-- 💬 Ask me about **HTML, CSS, and Python**
+- 💬 Ask me about **HTML and CSS**
 - 📫 How to reach me: [Votre adresse email ou lien]
 
 ---
 
 ## 🛠️ Languages and Tools
-[![Skills](https://skillicons.dev/icons?i=html,css,python,java,linux,git,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
 ---
 
