@@ -2,7 +2,7 @@
 
 **Développeur / Passionné de code**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_PSEUDO&color=blue&style=flat-square)](https://github.com/VOTRE_PSEUDO)
+[![Profile Views](https://komarev.com/ghpvc/?username=Coq140&color=blue&style=flat-square)](https://github.com/Coq140)
 
 - 🔭 I'm currently working on **Vos projets actuels**
 - 🌱 I'm learning **Ce que vous apprenez en ce moment**
