@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Coq140&color=blue&style=flat-square)](https://github.com/Coq140)
 
 - 🌱 I'm currently learning **Python**
-- 📫 How to reach me: [Votre adresse email ou lien]
+- 💬 Ask me about **HTML and CSS**
 
 ---
 
