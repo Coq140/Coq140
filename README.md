@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Coq140
 
-<!--
-**Coq140/Coq140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur / Passionné de code**
 
-Here are some ideas to get you started:
+[![Profile Views](https://komarev.com/ghpvc/?username=VOTRE_PSEUDO&color=blue&style=flat-square)](https://github.com/VOTRE_PSEUDO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Vos projets actuels**
+- 🌱 I'm learning **Ce que vous apprenez en ce moment**
+- 💬 Ask me about **Python, Java, Linux, etc.**
+- 📫 How to reach me **votre.email@example.com**
+
+---
+
+## 🚀 My Projects
+
+- [Nom de votre projet](https://github.com/VOTRE_PSEUDO/votre-projet) - Une courte description de votre projet.
+
+---
+
+## 🛠️ Languages and Tools
+
+[![Skills](https://skillicons.dev/icons?i=java,python,linux,ubuntu,git,github,html,css,js,nodejs)](https://skillicons.dev)
+
+---
+
+## 📊 My Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
